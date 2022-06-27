@@ -1,0 +1,19 @@
+ .logo{
+     /* text-align: center; */
+     font-size: 32px;
+     text-decoration: none;
+ }
+ Nav a{
+    color: black;
+    padding: 20px;
+    text-decoration:none ;
+ }
+ Nav{
+     background-color: whitesmoke;
+     padding: 20px;
+ }
+ Nav a:hover{
+     background-color: wheat;
+     color: tomato;
+ }
+ 
